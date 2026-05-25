@@ -132,6 +132,8 @@ void IRPAIR()
 ```
 
 ## OUTPUT
+<img width="2048" height="2048" alt="17796842481808398931351909933172" src="https://github.com/user-attachments/assets/874073b3-5730-4cda-9ce2-fb7ad4627452" />
+
 <img width="578" height="1280" alt="image" src="https://github.com/user-attachments/assets/1066b2b8-52c6-4b05-80f1-f00bf4fe51d5" />
 <img width="578" height="1280" alt="image" src="https://github.com/user-attachments/assets/5a92bfbd-fc02-4675-9a9a-89f849095d3d" />
 <img width="578" height="1280" alt="image" src="https://github.com/user-attachments/assets/ad9b3a28-94fb-4ef5-adf3-5839f3a69675" />
