@@ -132,12 +132,12 @@ void IRPAIR()
 ```
 
 ## OUTPUT
+<img width="1080" height="1076" alt="Screenshot_2026_0525_102048" src="https://github.com/user-attachments/assets/8c2ae198-18fc-4c85-bc72-5094cfa04087" />
+
+
 <img width="2048" height="2048" alt="17796842481808398931351909933172" src="https://github.com/user-attachments/assets/874073b3-5730-4cda-9ce2-fb7ad4627452" />
 
 <img width="578" height="1280" alt="image" src="https://github.com/user-attachments/assets/1066b2b8-52c6-4b05-80f1-f00bf4fe51d5" />
-<img width="578" height="1280" alt="image" src="https://github.com/user-attachments/assets/5a92bfbd-fc02-4675-9a9a-89f849095d3d" />
-<img width="578" height="1280" alt="image" src="https://github.com/user-attachments/assets/ad9b3a28-94fb-4ef5-adf3-5839f3a69675" />
-<img width="578" height="1280" alt="image" src="https://github.com/user-attachments/assets/49dd2a5a-06bd-4102-8ea2-b4262a470bec" />
 
 ## Result
 
